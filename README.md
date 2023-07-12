@@ -54,7 +54,7 @@ The app should now be running on [http://localhost:3000](http://localhost:3000).
 
 ## Contributing
 
-Contributions to the Sudoku Solver React App are welcome! If you encounter any issues, have suggestions for improvements, or would like to add new features, please open an issue or submit a pull request to the GitHub repository at [sudoku-solver](https://github.com/your-username/sudoku-solver).
+Contributions to the Sudoku Solver React App are welcome! If you encounter any issues, have suggestions for improvements, or would like to add new features, please open an issue or submit a pull request to the GitHub repository at [sudoku-solver](https://github.com/ADi7YA26/sudoku-solver).
 
 ## License
 
