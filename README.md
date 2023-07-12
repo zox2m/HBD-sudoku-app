@@ -41,7 +41,7 @@ The app should now be running on [http://localhost:3000](http://localhost:3000).
 
 ## Usage
 
-1. Access the Sudoku React App through the live site at [https://github.com/ADi7YA26/sudoku-react-app](https://github.com/ADi7YA26/sudoku-react-app).
+1. Access the Sudoku React App through the live site at [adi7ya26.github.io/sudoku-react-app/](https://adi7ya26.github.io/sudoku-react-app/).
 
 2. Fill in the empty cells of the Sudoku puzzle by clicking on them and entering numbers from 1 to 9.
 
