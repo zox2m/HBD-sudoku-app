@@ -11,19 +11,19 @@
 }
 
 :root{
-  --color-primary: #6366f1;
-  --color-secondary: #e0e7ff;
+  --color-primary: #126d3a;
+  --color-secondary: #e5fff0;
 
   --color-background-primary: #fff;
-  --color-background-secondary: #f9f8fb;
+  --color-background-secondary: #f8fbf9;
   --color-background-cell: var(--color-background-secondary);
 
-  --color-background-selected: #e0e7ff;
-  --color-background-same-value: #c0cefd;
-  --color-background-selected-cell: #b1c2fb;
+  --color-background-selected: #bce5cd;
+  --color-background-same-value: #4b8f5c;
+  --color-background-selected-cell: #378149;
 
-  --color-text: #4a5568;
-  --color-text-secondary: #edf2f7;
+  --color-text: #4a6853;
+  --color-text-secondary: #edf7f1;
   --color-white: #fff;
 }
 

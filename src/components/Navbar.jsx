@@ -1,5 +1,5 @@
 import React from 'react'
-import { AiFillGithub } from 'react-icons/ai';
+import { PiCakeFill } from "react-icons/pi";
 
 const Navbar = () => {
   return (
@@ -7,7 +7,7 @@ const Navbar = () => {
         <div className="logo">SuDoKu</div>
         <div className="navLinks">
             <ul>
-                <li><a href='https://github.com/ADi7YA26' target='_blank' rel='noreferrer'><AiFillGithub /> </a></li>
+                <li><a href='https://www.instagram.com/sss._.jjjin?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==' target='_blank' rel='noreferrer'><PiCakeFill /> </a></li>
             </ul>
         </div>
     </div>

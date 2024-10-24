@@ -2,7 +2,7 @@ import React from 'react'
 
 const GameWon = () => {
   return (
-    <div className='gameWon'>You Won</div>
+    <div className='gameWon'>Here's Happy Birthday!</div>
   )
 }
 
